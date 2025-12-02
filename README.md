@@ -115,11 +115,3 @@ Proyek dikerjakan oleh:
 * Muhammad Dhiwaul Akbar
 
 Departemen Ilmu Komputer dan Elektronika, Universitas Gadjah Mada.
-
-## 8. Lisensi
-
-Proyek ini dibuat untuk keperluan akademik dan tidak memiliki lisensi khusus. Anda bebas memodifikasi untuk pembelajaran atau penelitian lanjutan.
-
----
-
-Jika Anda ingin README dengan badge, contoh gambar maze, flowchart GA, atau penjelasan tambahan seperti grafik hasil evolusi, beritahu saya.
